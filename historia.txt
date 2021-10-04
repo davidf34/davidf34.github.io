@@ -4,6 +4,10 @@ David tiene 23 años y le gusta la programacion
 
 Experimento 1
 
+<<<<<<< HEAD
+=======
+Experimento 2
+>>>>>>> f40f452 (Exp 2)
 
 Master 1
 
